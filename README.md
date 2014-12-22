@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A letter sent by F.A. touchyng the proceedings in a priuate quarell and vnkindnesse betweene Arthur 
+
+1. To the right worshipful Sir Henrie Kneuet Knight, the Printer wishes, worship, health and long life.
+
 #####Body#####
-A letter sent by F.A. touchyng the proceedings in a priuate quarell and vnkindnesse betweene Arthur 
+I Know you haue ere this expected my ordinarie letters, whiche are to you into Italie from me out of〈…〉 haue obtayned for you my place in the common house of Parliament, for the increase of your knowl
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
